@@ -9,7 +9,7 @@ For a mnaufactured home insurance company ABC to be successful, we need to ident
 
 ## Agenda :
  ### Data Analysis:
- > Extract the data, transform, and load it into a database of your choice.
- > Create key metrics and insights in the visualization tool of your choice based on
+ > 1. Extract the data, transform, and load it into a database of your choice.
+ > 2. Create key metrics and insights in the visualization tool of your choice based on
  the data
- > Report your findings
+ > 3. Report your findings
