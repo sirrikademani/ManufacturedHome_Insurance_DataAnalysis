@@ -17,7 +17,7 @@ For a mnaufactured home insurance company ABC to be successful, we need to ident
 ## Dashbaords
 
 ### Overview Dashboard
-<img width="956" alt="Insights Dashboard" src="https://github.com/sirrikademani/ManufacturedHome_Insurance_DataAnalysis/assets/120608084/b3e1464f-f9f5-40fc-965c-901b23074d6f">
+<img width="958" alt="Overview Dashboard" src="https://github.com/sirrikademani/ManufacturedHome_Insurance_DataAnalysis/assets/120608084/daf7ce41-9651-4f37-833d-6eb1e48ad74d">
 
 ### Insights Dashboard
 <img width="956" alt="Insights Dashboard" src="https://github.com/sirrikademani/ManufacturedHome_Insurance_DataAnalysis/assets/120608084/b5c64675-f661-4fb9-9895-9fbd82b3bf32">
