@@ -13,3 +13,6 @@ For a mnaufactured home insurance company ABC to be successful, we need to ident
  > 2. Create key metrics and insights in the visualization tool of your choice based on
  the data
  > 3. Report your findings
+
+## Dashbaords
+<img width="954" alt="image" src="https://github.com/sirrikademani/ManufacturedHome_Insurance_DataAnalysis/assets/120608084/a4c77336-b417-4fb0-bc07-430880fc64b2">
